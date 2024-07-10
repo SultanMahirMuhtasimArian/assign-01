@@ -308,7 +308,7 @@ font-size: 14px;
 
 
 .ending {
-  background-image: url(/handshake.jpg);
+  background-image: url(./handshake.jpg);
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center;
