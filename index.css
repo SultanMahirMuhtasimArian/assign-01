@@ -32,7 +32,7 @@ body {
   padding: 40px;
   border-radius: 8px;
   text-align: center;
-  background-image: url(/B10A1-Challenge-Begins-main/assets/Hero-bg.png);
+  background-image: url(/Hero-bg.png);
   background-size: contain;
   margin-bottom: 40px;
   min-height: 200px;
@@ -308,7 +308,7 @@ font-size: 14px;
 
 
 .ending {
-  background-image: url(/B10A1-Challenge-Begins-main/assets/handshake.jpg);
+  background-image: url(/handshake.jpg);
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center;
